@@ -8,3 +8,17 @@ O2 level - 102 , 105
 IMS - information managerment system 
 couple of oxygen tank ruptured 
 point of asking question to a database came along - SQL . 
+
+1. Hierarchichal data
+2. Network data
+3. Relational data
+4. Unstructured data
+
+RDBMS - relational database management system
+
+Primary key -
+> can not contain duplicate value
+> will uniquely identify the row entries
+> will assist to join the data with other tables in the database with the help of foreign key
+
+Constraints -
