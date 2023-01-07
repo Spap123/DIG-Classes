@@ -1,0 +1,10 @@
+SQL - Structured Query Language
+flat file data Structure - problem
+tanveer 45 15000 delhi male
+kolkata harry male 28000
+1969 - Apollo 13 - Moon Landing - IBM 
+data - tem inside rocket , fuel level , oxygen level in tanks
+O2 level - 102 , 105
+IMS - information managerment system 
+couple of oxygen tank ruptured 
+point of asking question to a database came along - SQL . 
