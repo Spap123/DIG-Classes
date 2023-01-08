@@ -1,0 +1,11 @@
+Attributes -
+rows and columns - name , designation , salary , department , phone number , address
+Types of Attributes -
+1. Single value attribute (adhaar card)
+2. multi value attribute (phone no , address , email id)
+3. simple attribute (age )
+4. Composite attribute (name , address  )
+5. Derived attribute (grade)
+6. Required attribute
+7. Optional attribute 
+8. Stroed attribute (dob)
