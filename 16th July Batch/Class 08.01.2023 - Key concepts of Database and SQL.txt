@@ -9,3 +9,8 @@ Types of Attributes -
 6. Required attribute
 7. Optional attribute 
 8. Stroed attribute (dob)
+
+Logical data independence - 
+Schema (Databases)- 
+centralized Storage
+distributed
