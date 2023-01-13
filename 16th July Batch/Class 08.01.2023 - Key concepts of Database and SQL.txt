@@ -13,4 +13,5 @@ Types of Attributes -
 Logical data independence - 
 Schema (Databases)- 
 centralized Storage
-distributed
+distributed Storage
+
