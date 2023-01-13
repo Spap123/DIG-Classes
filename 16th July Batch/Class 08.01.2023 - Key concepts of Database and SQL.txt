@@ -15,3 +15,10 @@ Schema (Databases)-
 centralized Storage
 distributed Storage
 
+Entity Relationship Model (ER Model)
+
+This model is used for database development. It contains 4 primary components -
+1.  Entity
+2.  Attributes
+3.  Identifiers
+4.  Relationships
