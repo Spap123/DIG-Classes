@@ -12,8 +12,10 @@ Complain filed that in xyz Municipal school the students are underfed.
 let's send a team to evaluate - 
 
 1st Approach - going to the school , asking the students ... ---- Not taking this one
-Our approach - age - 10 , average weight - 32
-average weight - 35 ...
+Our approach - age - 10 , average weight - 32 - sample
+population average weight - 35
 
-Null Hypothesis - Complaint is Untrue - No significant weight differnece  between sample weight and population weight 
-Alternate Hypothesis - Complaint is True  - significant weight differnece  between sample weight and population weight 
+Null Hypothesis - Complaint is Untrue - No significant weight differnece  between sample weight and population weight - p value is greater 
+or equal to significance level 
+Alternate Hypothesis - Complaint is True  - significant weight differnece  between sample weight and population weight - p value is lesser 
+to significance level .
