@@ -1,0 +1,19 @@
+Z test 
+Z value , Z score  comparing with the given table of P value
+significance level - 0.05
+Confidence level - 0.95
+evaluation of z score
+
+
+Problem statement -
+
+Complain filed that in xyz Municipal school the students are underfed.
+
+let's send a team to evaluate - 
+
+1st Approach - going to the school , asking the students ... ---- Not taking this one
+Our approach - age - 10 , average weight - 32
+average weight - 35 ...
+
+Null Hypothesis - Complaint is Untrue - No significant weight differnece  between sample weight and population weight 
+Alternate Hypothesis - Complaint is True  - significant weight differnece  between sample weight and population weight 
