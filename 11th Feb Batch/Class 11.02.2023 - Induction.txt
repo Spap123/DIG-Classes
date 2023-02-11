@@ -1,0 +1,40 @@
+Data Scientist Track - 
+
+Artificial Intellegence 
+
+1. Gather the Data
+2. Finding an end objective 
+3. processing your data
+4. validating the output
+5. after succesful validation deploying the data. 
+
+
+Making data extremely useful for the end user based on their sepcific needs.
+
+query - "person x is trying to find out who won the 2022 fifa world cup"
+
+world cup data
+fifa 
+2022
+winner
+
+Argentina - Messi
+
+percentile / percentage
+
+
+
+1. Excel - sort filter , text functions , delimiters , pivot tables , vlookups , hlookups
+
+
+
+SQL - structured query language
+
+MySQL - RDBMS - 
+NoSQL - 
+
+DDL - data definition language
+DML - data manupulation language
+
+
+
