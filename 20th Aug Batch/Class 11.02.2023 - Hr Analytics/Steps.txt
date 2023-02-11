@@ -1,0 +1,134 @@
+
+
+First Worksheet (Key Performence Indicatore - KPI) -
+
+* Employee and attrition count
+
+	> We need the employee count first
+	> Take employee count and put this up in the text box in the marks section ,  (Aggregation SUM)
+	> Now we need the attrition count , as we can see that the attrition column is present with 'yes/no' inputs inside
+	> So we will create a calculated field here naming - "Attrition Count"
+	> Formula for attrition calculated field - IF [Attrition] = 'Yes' THEN 1 ELSE 0 END
+	> Now we will simply double click on the attrition and it will reflect under the (SUM(employee count)) Section in Marks area
+	> A new section called measure values will pop up in the marks area as well which will contain both employee count and attrition count values into
+	  Consideration.
+	> Measure Names filter will pop up in the filter and in the column section.
+	> Let's put employee count before the attrition count section.
+	> Let's also select entire view for our worksheet.
+
+* Attrition Rate
+
+	> We will create another calculated field now for finding "Attrition Rate"
+	> The formula - SUM(Attrition Count)/SUM(Employee Count)
+	> Now we will simply double click on newly created "Attrition Rate " column and it will reflect under the Marks section in 'Measure Values'Box.
+	> The aggregation for the new column will be displayed 0 by default so we need to format the same.
+	> Click on format and let's go to numbers in the pane section - Percentage - 2 Decimal Places.
+	> Now a percentage will show in the attrition rate section.
+
+* Active Employee
+
+	> Create a calculated field named "Active employee"
+	> The formula - SUM(Employee Count) - SUM(Attrition Count)
+	> Now simply double click on the "Active employee column"
+	> Place the new column after "Attrition rate" column.
+
+* Average Employee Age
+	
+	> We will simply double click on the age column
+	> By default it will display the sum of age , let's change the measure parameter and make it average.
+
+* Now that we have all the details for the worksheet in place we will change the format.
+* For all the section where data is shown without percentage we will go ahead in the format section and will create the number formatting defined as 0
+  Decimal points
+* Now we will be creating a global filter for all the worksheets in my dashboard
+* We will use education as the filter here.
+* Drag and drop education field in the filter section.
+* Enable the option " Apply to all worksheets using this data source"
+* From the option choose using all filters
+* Use show filter option in education drop down.
+
+Second Workseet (Attrition By Gender):
+
+* SUM(atrition count) in columns and Gender in row
+* We will be creating a custom lollypop chart now for the stated analysis
+* For Developing the same first we will clone SUM(atrition count) in the column section again.
+* Now this 2 cloned section , for one we will keep the chart type as bar and will keep the other one as a circle.
+* Now we will merge both of the axis using a dual axis option.
+* Now we will click on top of work sheet and use synconize axis option.
+* We will now work along with sizing of the circle and bar so that it looks like a lollypop.
+* Let's use Gender as colour option for both of the axis.
+* Now let's use attrition count as a label for the circled axis to display the number.
+* Go to the label and make the alignment a centred 
+
+Third Worksheet (Department Wise Attrition):
+
+* Take department column in the worksheet as in the color marks label
+* Make the chart type as pie
+* Now take the attrition count field and drag it into the worksheet , now the pie parts will be aligned as per department wise laid off people.
+* Let's change the color pallete , use blue as our background supports the same.
+* Let's put attrition count in label as well
+* Let's now go to the attrition count column and from the quick table calculation section , use percentage so the percentage shows up by the side of the pie.
+
+Fourth Worksheet (Employee Count Age Group)
+
+* Create a new worksheet
+* Put CF age band in columns and employee count in rows
+* Change colour theme as blue , do basic formating.
+* This is called as a frequency chart.
+
+Fifth Worksheet (Job Satisfaction Rating)
+
+* Put Job satisfaction in the columns section
+* Put Job role in the row section
+* Drag the job satisfaction segment in the dimensions segment
+* Now take employee count and drag it onto the text section under marks label.
+* Now we will use the analysis tool and will display both row and column grand total in my worksheet.
+* Now after basic font and color formatting we will convert this into a heatmap from 'showme' option on worksheet right area.
+* Now we will swap the roles in the worksheet from second task bar option by the side of sort options.
+* We again need to perform total analysis of rows and columns (Grand totals)
+* Change colours
+
+Sixth Worksheet (Education wise worksheet)
+
+* Attrition count in columns
+* Education field in rows
+* Change colour and fonts as deemed fit.
+
+Seventh Worksheet (Gender Attrition - Age Group)
+
+* CF Age band in column section
+* Make the chart a pie one
+* Gender dragged in colours
+* Attrition Count in angle
+* Formatting
+
+
+DashBoard Creation -
+
+* Size - 1580*900
+* Select Image from Object , Use both fit and center image
+* Upload background Image
+* Set object option as floating
+* Drag KPI in the top second section of our background
+* Colour and font formatting to be done.
+* Worksheet format , shading as none so background becomes transparent.
+* Set none to all row and column grid lines in pane
+* We can set the number fonts directly in the worksheet as well.
+* Gender wise attrition to be placed beside the kpi section box.
+* We will drag the Third/Departmentwise worksheet now into the second row first column box and will adjust font an colours and everything.
+* We will drag the Fourth/Age wise worksheet now into the second row second column box and will adjust font an colours and everything.
+* We will drag the Fift/Job Satisfaction wise worksheet now into the second row second column box and will adjust font an colours and everything.
+* We will drag the Sixth/Education  wise worksheet now into the Third row first column box and will adjust font an colours and everything.
+* Drag seventh worksheet  and do the basics , the provide heading
+* Dashboard Heading to be given.
+
+
+
+
+
+
+
+
+
+
+
