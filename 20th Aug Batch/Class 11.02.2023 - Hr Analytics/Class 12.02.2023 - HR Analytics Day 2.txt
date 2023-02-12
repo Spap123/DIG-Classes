@@ -1,0 +1,11 @@
+KPI Worksheet -
+
+1.  Double click on employee count
+2.  Drag and drop employee count from row to text marks
+3.  the number 1470 will flash in the Worksheet
+4.  Calculated field to be created ' Attrition count'
+5.  Go to create option and create calculated field.
+6.  Formula - IF['Attrition'] = 'Yes' THEN 1 ELSE 0 END
+7.  Double click on newly created attrition count section and swap rows and columns - (top task bar button by the side of sorting)
+8.  Under measure values place employee count before attrition count , select entire view now
+
