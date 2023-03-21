@@ -1,2 +1,32 @@
+Q1. To run a GoalSeek, at least one of the values for an argument must be ?
+    a. value
+    b. range
+    c. cell refernce
+    d. b and c
+Q2. How many arguments can be altered in GoalSeek ?
+    a. one
+    b. two
+    c. none
+    d. all
 
+Q3. You cannot replace the original value with GoalSeek resultant value.
+    a. True
+    b. False
 
+Q4. What is the Goal Seek Excel function? 
+    a. A method of solving for a desired output by changing an assumption that drives it. 
+    b. A method of solving for a desired input by changing an assumption that drives it. 
+    c. A method of solving for a desired output by changing an assumption that doesn’t drive it. 
+    d. A method of solving for a desired input by changing an assumption that doesn’t drive it.
+
+Q5. What is the keyboard shortcut for Goal Seek? 
+    a. Alt, A, W, G 
+    b. Alt, A, G, W 
+    c. Alt, G, A, W 
+    d. Alt, G, W, A
+
+Q6. What is the use of Goal Seek? 
+    a. To find an unknown value from a set of known values. 
+    b. To find a known value from a set of unknown values. 
+    c. To find an unknown value from a set of unknown values. 
+    d. None of the above.

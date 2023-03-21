@@ -1,2 +1,31 @@
+What is the cost function in linear regression? 
 
+a. Mean Absolute Error 
+b. Mean Squared Error 
+c. Root Mean Squared Error 
+d. None of the above
+
+What is the formula for Mean Squared Error? 
+a. (1/n) * Σ(yi - ŷi)^2 
+b. (1/n) * Σ(yi - ŷi) 
+c. (1/n) * Σ(ŷi - yi)^2 
+d. (1/n) * Σ(ŷi - yi)
+
+What is the formula for Root Mean Squared Error? 
+a. √(1/n) * Σ(yi - ŷi)^2 
+b. √(1/n) * Σ(yi - ŷi) 
+c. √(1/n) * Σ(ŷi - yi)^2 
+d. √(1/n) * Σ(ŷi - yi)
+
+What is the difference between L1 and L2 regularization? 
+a. L1 regularization adds the absolute value of the coefficients to the cost function, while L2 regularization adds the square of the coefficients. 
+b. L1 regularization adds the square of the coefficients to the cost function, while L2 regularization adds the absolute value of the coefficients. 
+c. L1 regularization adds the square of the coefficients to the cost function, while L2 regularization adds the square root of the coefficients. 
+d. L1 regularization adds the absolute value of the coefficients to the cost function, while L2 regularization adds the square root of the coefficients.
+
+What is the formula for L2 regularization? 
+a. λ * Σ(wi^2) 
+b. λ * Σ(wi) 
+c. λ * Σ(|wi|) 
+d. λ * Σ(√wi)
 

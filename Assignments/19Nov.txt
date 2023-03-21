@@ -1,2 +1,60 @@
+Here are 5 MCQ questions on Python Loops:
+
+1. What is the output of the following code?
+```
+for i in range(3):
+    print(i)
+```
+a. 0 1 2
+b. 1 2 3
+c. 0 1 2 3
+d. 1 2
+
+2. What is the output of the following code?
+```
+i = 0
+while i < 3:
+    print(i)
+    i += 1
+```
+a. 0 1 2
+b. 1 2 3
+c. 0 1 2 3
+d. 1 2
+
+3. What is the output of the following code?
+```
+for i in range(3):
+    for j in range(3):
+        print(i, j)
+```
+a. 0 0 1 1 2 2
+b. 0 1 2 0 1 2
+c. 0 0 0 1 1 1 2 2 2
+d. 0 1 2 1 2 3
+
+4. What is the output of the following code?
+```
+for i in range(3):
+    for j in range(i):
+        print(i, j)
+```
+a. 0 0 1 0 1 2
+b. 1 0 2 0 2 1
+c. 0 1 1 2 2 3
+d. 1 0 2 0 2 1 2 1
+
+5. What is the output of the following code?
+```
+for i in range(3):
+    for j in range(3):
+        if i == j:
+            break
+        print(i, j)
+```
+a. 0 1 0 2
+b. 1 0 2 0
+c. 0 1 1 2
+d. 1 0 2 1
 
 

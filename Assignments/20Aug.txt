@@ -1,2 +1,32 @@
 
 
+1. A statement made about a population for testing purpose is called?
+a. Statistic
+b. Hypothesis
+c. Level of Significance
+d. Test-Statistic
+
+2. If the assumed hypothesis is tested for rejection considering it to be true is called?
+a. Null Hypothesis
+b. Alternative Hypothesis
+c. Type I Error
+d. Type II Error
+
+3. A statement whose validity is tested on the basis of a sample is called?
+a. Null Hypothesis
+b. Alternative Hypothesis
+c. Level of Significance
+d. Test-Statistic
+
+4. A hypothesis which defines the population distribution is called?
+a. Null Hypothesis
+b. Alternative Hypothesis
+c. Level of Significance
+d. Test-Statistic
+
+5. The decision value to reject the null hypothesis in case of a right-tail test is said to be?
+a. Calculated t is less than negative of critical t-value
+b. Calculated t must be greater than critical value
+c. Calculated t must be less than critical value
+d. Calculated t must be less than critical value in absolute form
+
