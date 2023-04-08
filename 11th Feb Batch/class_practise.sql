@@ -1,1 +1,8 @@
-create  view non_sal_view as SELECT emp_id,first_name,last_name,birth_day,sex,super_id,branch_id FROM employee;
+SELECT e.first_name , e.last_name , b.branch_name,
+CASE 
+    WHEN salary>70000 THEN salary+(salary*0.2)
+    WHEN salary BETWEEN 60000 and 70000 then salary+(salary*0.3)
+    ELSE salary+(salary*0.6)
+END AS emp_incremented_salary
+FROM employee e JOIN branch b
+ON e.branch_id = b.branch_id;
