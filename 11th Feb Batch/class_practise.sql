@@ -1,4 +1,1 @@
-select e.first_name , b.branch_name , c.client_name
-from branch b 
-join client c ON b.branch_id = c.branch_id
-join employee e ON b.mgr_id = e.super_id;
+create  view non_sal_view as SELECT emp_id,first_name,last_name,birth_day,sex,super_id,branch_id FROM employee;
