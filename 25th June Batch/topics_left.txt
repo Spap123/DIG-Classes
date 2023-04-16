@@ -1,1 +1,2 @@
-Naive Bayes Algorithm
+VIEWS,STORED PROCEDURES,TRIGGERS IN SQL
+Tableau Story Building
