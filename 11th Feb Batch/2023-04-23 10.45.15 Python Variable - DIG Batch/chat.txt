@@ -1,0 +1,71 @@
+10:46:23	 From  Shehla Ahmed : yes I can see
+10:48:17	 From  Shehla Ahmed : getting some buggage
+10:48:25	 From  Nabeela Akram : A glass, wallet
+10:48:31	 From  saikiran : Storage device
+10:51:31	 From  Shehla Ahmed : yes
+10:51:32	 From  Nikhil kashyap : yes
+10:51:32	 From  Florensa Andrews : yes
+10:51:34	 From  saikiran : yes
+10:51:35	 From  Debanjan : Yes
+10:51:35	 From  rinky : yes
+10:52:59	 From  Aditi : sir can you please zoom in your screen
+10:53:23	 From  Pratibha Srivastava : Sir cannot see please zoom in
+10:54:24	 From  Yogesh Wadode : 12
+10:54:29	 From  Nikhil kashyap : a is integer
+10:54:34	 From  Aditi : Integer
+10:54:41	 From  Nabeela Akram : Class <int>
+10:55:12	 From  Nabeela Akram : float
+10:55:39	 From  Prathyusha Sure : yes
+10:55:40	 From  Florensa Andrews : yes
+10:55:41	 From  Meghna : yes
+10:55:52	 From  VISHRUT MIYANI : Yes
+10:56:15	 From  saikiran : But what if we give Date?
+10:56:20	 From  VISHRUT MIYANI : Reacted to "But what if we give ..." with 👍
+10:57:29	 From  saikiran : ok
+10:59:30	 From  Meghna : yes
+10:59:31	 From  saikiran : yes
+10:59:31	 From  Nabeel Ahmed : yes
+10:59:32	 From  Shehla Ahmed : yes
+10:59:54	 From  ajinkyaBayani : yes
+11:02:06	 From  Meghna : yes
+11:02:07	 From  Nabeel Ahmed : yes
+11:04:03	 From  Nabeel Ahmed : no
+11:04:07	 From  Aditi : no
+11:04:07	 From  ajinkyaBayani : no
+11:04:10	 From  Nikhil kashyap : that's str
+11:04:18	 From  Debanjan : Integer and char
+11:07:41	 From  Meghna : yes
+11:07:49	 From  Shehla Ahmed : yes
+11:07:49	 From  ajinkyaBayani : yes
+11:07:51	 From  Nabeel Ahmed : so it converts str into int right?
+11:08:01	 From  Nabeel Ahmed : okk
+11:08:14	 From  saikiran : This will be possible if the numbers are identified as String?
+11:08:58	 From  Meghna : And if number and letters both are there in same variable
+11:09:00	 From  Administrator : can we add float and int without conerting
+11:09:05	 From  saikiran : ok
+11:09:21	 From  Meghna : ok
+11:09:30	 From  Meghna : ok
+11:10:27	 From  Shehla Ahmed : yes
+11:10:28	 From  Administrator : yes
+11:10:31	 From  Nikhil kashyap : in typecasting, x will be changed to int at all locations?
+11:10:31	 From  saikiran : yes
+11:11:05	 From  Nikhil kashyap : if I using x in multiple lines ?
+11:13:43	 From  Nikhil kashyap : ok
+11:13:49	 From  saikiran : yes
+11:13:49	 From  Meghna : yes
+11:13:50	 From  Administrator : yes
+11:15:41	 From  Administrator : yes
+11:15:45	 From  Shehla Ahmed : yes
+11:15:45	 From  Nabeel Ahmed : yes
+11:15:56	 From  Aditi : what iis this function called ?
+11:15:57	 From  ajinkyaBayani : it should be used in inverted commas
+11:16:09	 From  ajinkyaBayani : \n
+11:16:25	 From  ajinkyaBayani : yes
+11:20:34	 From  Meghna : yes
+11:20:37	 From  Nabeel Ahmed : yes
+11:20:38	 From  ajinkyaBayani : yes
+11:20:41	 From  Florensa Andrews : yes
+11:20:44	 From  Shehla Ahmed : yes
+11:23:10	 From  Meghna : yes
+11:23:11	 From  Shehla Ahmed : yes
+11:23:21	 From  Meghna : no
