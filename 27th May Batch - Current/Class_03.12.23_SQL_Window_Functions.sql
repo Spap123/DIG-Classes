@@ -48,21 +48,6 @@ select e.* ,
 dense_rank() over(partition by emp_department order by emp_salary)as d_rnk
 from details e;
 
--- Rank Function
-select e.* ,
-rank() over(partition by emp_department order by emp_salary)as rnk
-from details e;
-
-select * from
-(select e.* , rank() over(partition by emp_department order by emp_salary desc) as rnk from details e)X
-where X.rnk < 3;
-
--- combined rank and row
-select e.*,
-row_number() over(partition by emp_department order by emp_salary) as row_no,
-rank() over(partition by emp_department order by emp_salary)as rank_no,
-dense_rank() over(partition by emp_department order by emp_salary)as dense_rank_no
-from details e;
 
 
 

@@ -34,8 +34,6 @@ select e.* ,
 lag(emp_salary,1,0) over(partition by emp_department order by emp_id) as previous_salary,
 lead(emp_salary,1,0) over(partition by emp_department order by emp_id) as next_salary
 from details e;
-
-
 select e.*,
 lag(emp_salary,1,0) over(partition by emp_department order by emp_id) as previous_salary,
 case
