@@ -1,0 +1,14 @@
+category,brand,name,price,product_id,warranty
+Laptop,Apple,"Macbook M1",120000,LA001,1
+Laptop,Apple,"Macbook M2",135000,LA002,1
+Laptop,HP,Elitebook,50000,LH001,1
+Laptop,Lenovo,Thinkpad,28000,LL001,1
+Mobile,Apple,"Iphone 13",65000,MA001,1
+Mobile,Samsung,S22,95000,MS001,1
+Mobile,Samsung,S21,69000,MS002,1
+Mobile,Vivo,X70,32000,MV001,1
+Smartwatch,Apple,Ultra,91000,SA001,1
+Smartwatch,Fitbit,Pro,8000,SF001,1
+Smartwatch,Fitbit,Raw,6500,SF002,1
+Smartwatch,Samsung,"Galaxy 4",28000,SS001,1
+Smartwatch,Samsung,"Galaxy 3",21000,SS002,1
